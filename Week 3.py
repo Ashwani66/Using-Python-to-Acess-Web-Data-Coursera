@@ -38,5 +38,5 @@ many reasons, ranging from making your living to solving
 a difficult data analysis problem to having fun to helping
 someone else solve a problem.  This book assumes that 
 everyone needs to know how to program, and that once 
-you know how to program you will figure out what you want 
+you know how to  program you will figure out what you want 
 to do with your newfound skills."""
